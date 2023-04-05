@@ -1,0 +1,72 @@
+font-family: 'Mariaweater', serif;
+font-family: 'Poppins', sans-serif;
+
+body{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.content{
+    background-image: url('halaman/image/vincent1.jpeg');
+    padding: 30px 10px;
+    text-align: center;
+    margin: 10px auto;
+    color: #DDE2E3;
+}
+
+header{
+    background-color: #2E323C;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin-bottom: 10px;
+    color: #DDE2E3;
+}
+
+.menu{
+    background-color: #2E323C;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.menu ul li{
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+    margin-left: 8px;
+    padding: 10px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: #DDE2E3;
+}
+
+table{
+    width: 30%;
+    margin: 10px auto;
+    color: #DDE2E3;
+}
+
+table th{
+    background-color: #2E323C;
+    padding: 10px;
+    margin: 5px;
+    color : #DDE2E3;
+}
+
+.judul h1{
+    color: #DDE2E3;
+    margin-top: 50px;
+}
+
+table tr{
+    color : #2E323C;
+    background-color: #DDE2E3;
+}
